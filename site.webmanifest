@@ -2,8 +2,8 @@
   "short_name": "dCustody",
   "name": "dCustody",
   "start_url": "/",
-  "background_color": "#50a",
-  "theme_color": "#50a",
+  "background_color": "#484995",
+  "theme_color": "#484995",
   "icons": [
     {
       "src": "/img/android-chrome-192x192.png",
